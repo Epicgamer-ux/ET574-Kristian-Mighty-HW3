@@ -13,5 +13,4 @@ def greet_students(student_list):
 greet_students(students)
 
 # change Jon to John
-students[0] = 'John'
-greet_students(students)
+students[1] = 'John'
